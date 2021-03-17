@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+In this project we have built Tic Tac Toe using React hooks, where the user has the ability to traverse back to the previous moves as well
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
